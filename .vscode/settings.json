@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "digits.h": "c",
+        "game.h": "c",
+        "worldexecuteme.h": "c",
+        "gamesystem.h": "c",
+        "etherstrike.h": "c",
+        "menu.h": "c",
+        "splash.h": "c",
+        "testmap1.h": "c"
+    }
+}
